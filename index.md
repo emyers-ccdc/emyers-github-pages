@@ -1,15 +1,7 @@
 ---
-title: Welcome to my blog
+title: Test documentation site
 ---
 
-# Heading 1
+# Encifer index
 
-## Heading 2
-
-```sh
-Fenced code block
-```
-
-* We can put **any** Markdown here.
-* xyz
 

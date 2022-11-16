@@ -1,0 +1,14 @@
+encifer-00.md : EnCIFer User Guide & Tutorials
+encifer-01.md : Activating CSD-Community Access for EnCIFer
+encifer-02.md : CIF - The Crystallographic Information File
+encifer-03.md : General Features of EnCIFer
+encifer-04.md : File Operations
+encifer-05.md : Text Editor
+encifer-06.md : Browser
+encifer-07.md : Syntax and Dictionary Checking
+encifer-08.md : Loop Editor
+encifer-09.md : Data Wizards
+encifer-10.md : IUCr CheckCIF/PLATON
+encifer-11.md : Visualizer
+encifer-12.md : Appendices
+encifer-13.md : Tutorials
